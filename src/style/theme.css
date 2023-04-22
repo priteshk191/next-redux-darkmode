@@ -1,0 +1,9 @@
+:root {
+  --text-white: #fff;
+}
+
+/*********** DARK MODE ***********/
+
+[data-theme="dark"] {
+  --text-white: #7a7a7a;
+}
